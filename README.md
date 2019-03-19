@@ -23,13 +23,15 @@ Knowledge-aware recommendation and knowledge graph related papers.
 1. **Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences.**
 *Cao, Yixin, et al.* WWW, 2019. [paper](https://www.comp.nus.edu.sg/~xiangnan/papers/www19-KGRec.pdf)
 
-[xx]: 1. ** **
-[xx]:** CIKM, 2018. [paper]()
-
 ### Tutorials:
+1. **Challenges and Innovations in Building a Product Knowledge Graph.** [slides](http://lunadong.com/talks/PG.pdf)
+
+1. **基于知识的推荐与可解释推荐** [slides]()
 
 ### Personal site:
 1. [Hongwei Wang](https://hwwang55.github.io/)
+
+1. [Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/)
 
 1. [Yongfeng Zhang](http://yongfeng.me/)
 
