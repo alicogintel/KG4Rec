@@ -2,12 +2,8 @@
 Knowledge-aware recommendation and knowledge graph related papers.
 
 ### Survey papers:
-
-Explainable Reasoning over Knowledge Graphs for Recommendation
-
 1. **RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems.**
 *Wang, Hongwei, et al.* CIKM, 2018. [paper](https://arxiv.org/pdf/1803.03467.pdf)
-
 1. **DKN: Deep knowledge-aware network for news recommendation.**
 *Wang, Hongwei, et al.* WWW, 2018. [paper](https://arxiv.org/abs/1801.08284)
 
