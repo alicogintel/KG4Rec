@@ -23,8 +23,8 @@ Knowledge-aware recommendation and knowledge graph related papers.
 1. **Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences.**
 *Cao, Yixin, et al.* WWW, 2019. [paper](https://www.comp.nus.edu.sg/~xiangnan/papers/www19-KGRec.pdf)
 
-; 1. ** **
-; ** CIKM, 2018. [paper]()
+[xx]: 1. ** **
+[xx]:** CIKM, 2018. [paper]()
 
 ### Tutorials:
 
