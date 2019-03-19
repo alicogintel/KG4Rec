@@ -26,7 +26,7 @@ Knowledge-aware recommendation and knowledge graph related papers.
 ### Tutorials:
 1. **Challenges and Innovations in Building a Product Knowledge Graph.** [slides](http://lunadong.com/talks/PG.pdf)
 
-1. **基于知识的推荐与可解释推荐** [slides]()
+1. **基于知识的推荐与可解释推荐.** [slides](https://www.researchgate.net/profile/Yongfeng_Zhang/publication/310575130_Explainable_Recommendation_-_Theory_and_Applications/links/59dc32fe0f7e9b1460fc37c7/Explainable-Recommendation-Theory-and-Applications.pdf)
 
 ### Personal site:
 1. [Hongwei Wang](https://hwwang55.github.io/)
