@@ -2,6 +2,9 @@
 Knowledge-aware recommendation and knowledge graph related papers.
 
 ### Survey papers:
+1. **Collaborative Knowledge Base Embedding for Recommender Systems.**
+*Fuzheng, Zhang, et al.* KDD, 2016. [paper](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf)
+
 1. **RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems.**
 *Wang, Hongwei, et al.* CIKM, 2018. [paper](https://arxiv.org/pdf/1803.03467.pdf)
 
