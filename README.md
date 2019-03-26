@@ -47,4 +47,6 @@ Knowledge-aware recommendation and knowledge graph related papers.
 
 1. [Yongfeng Zhang](http://yongfeng.me/)
 
-1. [Xiangnan HE ](https://www.comp.nus.edu.sg/~xiangnan/)
+1. [Xiangnan HE](https://www.comp.nus.edu.sg/~xiangnan/)
+
+1. [Unknown](http://shomy.top/2019/03/19/kg-ns-recsys/)
