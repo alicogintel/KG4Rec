@@ -38,7 +38,7 @@ Knowledge-aware recommendation and knowledge graph related papers.
 1. [**KGEebedding**](https://github.com/thunlp/OpenKE)
 
 ### Datasets:
-1. [**KB4REC**]https://github.com/RUCDM/KB4Rec
+1. [**KB4REC**](https://github.com/RUCDM/KB4Rec)
 
 ### Personal sites:
 1. [Hongwei Wang](https://hwwang55.github.io/)
