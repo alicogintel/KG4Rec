@@ -2,6 +2,9 @@
 Knowledge-aware recommendation and knowledge graph related papers.
 
 ### Survey papers:
+1. **Personalized Entity Recommendation: A Heterogeneous Information Network Approach.**
+*Xiao, Yu, et al.* WSDM, 2014. [paper](http://hanj.cs.illinois.edu/pdf/wsdm14_xyu.pdf)
+
 1. **Collaborative Knowledge Base Embedding for Recommender Systems.**
 *Fuzheng, Zhang, et al.* KDD, 2016. [paper](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf)
 
