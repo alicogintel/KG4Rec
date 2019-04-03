@@ -17,6 +17,9 @@ Knowledge-aware recommendation and knowledge graph related papers.
 1. **Improving sequential recommendation with knowledge-enhanced memory networks.**
 *Huang, Jin, et al.* SIGIR, 2018. [paper](https://dl.acm.org/citation.cfm?doid=3209978.3210017)
 
+1. **Learning over Knowledge-Base Embeddings for Recommendation.**
+*Zhang, Yongfeng, et al.* SIGIR, 2018. [paper](https://arxiv.org/abs/1803.06540)
+
 1. **Explainable Reasoning over Knowledge Graphs for Recommendation.**
 *Wang, Xiang, et al.* AAAI, 2019. [paper](https://arxiv.org/abs/1811.04540)
 
