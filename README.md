@@ -1,5 +1,5 @@
 # Must-read papers on KG/KG4Rec
-Knowledge-aware recommendation and knowledge graph related papers.
+Knowledge-aware recommendation papers.
 
 ### Survey papers:
 1. **Personalized Entity Recommendation: A Heterogeneous Information Network Approach.**
