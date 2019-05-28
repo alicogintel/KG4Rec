@@ -32,6 +32,18 @@ Knowledge-aware recommendation and knowledge graph related papers.
 1. **Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences.**
 *Cao, Yixin, et al.* WWW, 2019. [paper](https://www.comp.nus.edu.sg/~xiangnan/papers/www19-KGRec.pdf)
 
+1. **Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation.**
+*Wang, Hongwei, et al.* WWW, 2019 [paper](https://arxiv.org/abs/1901.08907)
+
+1. **Adversarial Distillation for Efficient Recommendation with External Knowledge.**
+*Chen, Xu, et al.* TOIS, 2018 [paper](https://dl.acm.org/citation.cfm?id=3281659)
+
+1. **Knowledge Graph Convolutional Networks for Recommender Systems.**
+*Wang, Hongwei, et al.* WWWW, 2019 [paper](https://arxiv.org/abs/1904.12575)
+
+1. **Dynamic Explainable Recommendation based on Neural Attentive Models.**
+*Chen, Xu, et al.* AAAI, 2019 [paper](http://yongfeng.me/attach/dynamic-explainable-recommendation.pdf)
+
 ### Tutorials:
 1. **Challenges and Innovations in Building a Product Knowledge Graph.** [slides](http://lunadong.com/talks/PG.pdf)
 
