@@ -44,6 +44,10 @@ Knowledge-aware recommendation papers.
 1. **Dynamic Explainable Recommendation based on Neural Attentive Models.**
 *Chen, Xu, et al.* AAAI, 2019 [paper](http://yongfeng.me/attach/dynamic-explainable-recommendation.pdf)
 
+1. **Knowledge Graph Convolutional Networks for Recommender Systems with Label Smoothness Regularization.**
+*Wang, Hongwei, et al.* KDD, 2019 [paper](https://arxiv.org/abs/1905.04413)
+
+
 ### Tutorials:
 1. **Challenges and Innovations in Building a Product Knowledge Graph.** [slides](http://lunadong.com/talks/PG.pdf)
 
