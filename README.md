@@ -48,7 +48,10 @@ Knowledge-aware recommendation papers.
 *Wang, Hongwei, et al.* KDD, 2019 [paper](https://arxiv.org/abs/1905.04413)
 
 1. **KGAT: Knowledge Graph Attention Network for Recommendation.**
-*Wang Xiang, et al.* KDD, 2019 [paper](https://arxiv.org/abs/1905.07854) [code](https://github.com/xiangwang1223/knowledge_graph_attention_network)
+*Wang, Xiang, et al.* KDD, 2019 [paper](https://arxiv.org/abs/1905.07854) [code](https://github.com/xiangwang1223/knowledge_graph_attention_network)
+
+1. **Reinforcement Knowledge Graph Reasoning for Explainable Recommendation.**
+*Xian, Yikun and Fu, Zuohui, et al.* SIGIR, 2019 [paper](https://arxiv.org/pdf/1906.05237.pdf)
 
 ### Tutorials:
 1. **Challenges and Innovations in Building a Product Knowledge Graph.** [slides](http://lunadong.com/talks/PG.pdf)
