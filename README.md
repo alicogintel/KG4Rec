@@ -53,6 +53,9 @@ Knowledge-aware recommendation papers.
 1. **Reinforcement Knowledge Graph Reasoning for Explainable Recommendation.**
 *Xian, Yikun and Fu, Zuohui, et al.* SIGIR, 2019 [paper](https://arxiv.org/pdf/1906.05237.pdf)
 
+1. **Conceptualize and Infer User Needs in E-commerce.**
+*Luo, Xusheng, et al.* CIKM, 2019 [paper]()
+
 ### Tutorials:
 1. **Challenges and Innovations in Building a Product Knowledge Graph.** [slides](http://lunadong.com/talks/PG.pdf)
 
