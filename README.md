@@ -54,7 +54,10 @@ Knowledge-aware recommendation papers.
 *Xian, Yikun and Fu, Zuohui, et al.* SIGIR, 2019 [paper](https://arxiv.org/pdf/1906.05237.pdf)
 
 1. **Conceptualize and Infer User Needs in E-commerce.**
-*Luo, Xusheng, et al.* CIKM, 2019 [paper]()
+*Luo, Xusheng, et al.* CIKM, 2019 [paper](https://arxiv.org/abs/1910.03295)
+
+1. **Attentive Knowledge Graph Embedding for Personalized Recommendation.**
+*Xiao, Sha* arXive, 2019 [paper](https://arxiv.org/abs/1910.08288)
 
 ### Tutorials:
 1. **Challenges and Innovations in Building a Product Knowledge Graph.** [slides](http://lunadong.com/talks/PG.pdf)
