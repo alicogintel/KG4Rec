@@ -3,61 +3,61 @@ Knowledge-aware recommendation papers.
 
 ### Survey papers:
 1. **Personalized Entity Recommendation: A Heterogeneous Information Network Approach.**
-*Xiao, Yu, et al.* WSDM, 2014. [paper](http://hanj.cs.illinois.edu/pdf/wsdm14_xyu.pdf)
+*Xiao Yu, et al.* WSDM, 2014. [paper](http://hanj.cs.illinois.edu/pdf/wsdm14_xyu.pdf)
 
 1. **Collaborative Knowledge Base Embedding for Recommender Systems.**
-*Fuzheng, Zhang, et al.* KDD, 2016. [paper](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf)
+*Fuzheng Zhang, et al.* KDD, 2016. [paper](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf)
 
 1. **RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems.**
-*Wang, Hongwei, et al.* CIKM, 2018. [paper](https://arxiv.org/pdf/1803.03467.pdf)
+*Wang Hongwei, et al.* CIKM, 2018. [paper](https://arxiv.org/pdf/1803.03467.pdf)
 
 1. **DKN: Deep knowledge-aware network for news recommendation.**
-*Wang, Hongwei, et al.* WWW, 2018. [paper](https://arxiv.org/abs/1801.08284)
+*Wang Hongwei, et al.* WWW, 2018. [paper](https://arxiv.org/abs/1801.08284)
 
 1. **Improving sequential recommendation with knowledge-enhanced memory networks.**
-*Huang, Jin, et al.* SIGIR, 2018. [paper](https://dl.acm.org/citation.cfm?doid=3209978.3210017)
+*Huang Jin, et al.* SIGIR, 2018. [paper](https://dl.acm.org/citation.cfm?doid=3209978.3210017)
 
 1. **Learning over Knowledge-Base Embeddings for Recommendation.**
-*Zhang, Yongfeng, et al.* SIGIR, 2018. [paper](https://arxiv.org/abs/1803.06540)
+*Zhang Yongfeng, et al.* SIGIR, 2018. [paper](https://arxiv.org/abs/1803.06540)
 
 1. **Explainable Reasoning over Knowledge Graphs for Recommendation.**
-*Wang, Xiang, et al.* AAAI, 2019. [paper](https://arxiv.org/abs/1811.04540)
+*Wang Xiang, et al.* AAAI, 2019. [paper](https://arxiv.org/abs/1811.04540)
 
 1. **Explainable Recommendation Through Attentive Multi-View Learning.**
-*Gao, Jingyue, et al.* AAAI, 2019. [paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/10/exrec-aaai-camera-ready.pdf)
+*Gao Jingyue, et al.* AAAI, 2019. [paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/10/exrec-aaai-camera-ready.pdf)
 
 1. **Taxonomy-aware multi-hop reasoning networks for sequential recommendation.**
-*Huang, Jin, et al.* WSDM, 2019. [paper](https://dl.acm.org/citation.cfm?id=3290972)
+*Huang Jin, et al.* WSDM, 2019. [paper](https://dl.acm.org/citation.cfm?id=3290972)
 
 1. **Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences.**
-*Cao, Yixin, et al.* WWW, 2019. [paper](https://www.comp.nus.edu.sg/~xiangnan/papers/www19-KGRec.pdf)
+*Cao Yixin, et al.* WWW, 2019. [paper](https://www.comp.nus.edu.sg/~xiangnan/papers/www19-KGRec.pdf)
 
 1. **Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation.**
-*Wang, Hongwei, et al.* WWW, 2019 [paper](https://arxiv.org/abs/1901.08907)
+*Wang Hongwei, et al.* WWW, 2019 [paper](https://arxiv.org/abs/1901.08907)
 
 1. **Adversarial Distillation for Efficient Recommendation with External Knowledge.**
-*Chen, Xu, et al.* TOIS, 2018 [paper](https://dl.acm.org/citation.cfm?id=3281659)
+*Chen Xu, et al.* TOIS, 2018 [paper](https://dl.acm.org/citation.cfm?id=3281659)
 
 1. **Knowledge Graph Convolutional Networks for Recommender Systems.**
-*Wang, Hongwei, et al.* WWWW, 2019 [paper](https://arxiv.org/abs/1904.12575)
+*Wang Hongwei, et al.* WWWW, 2019 [paper](https://arxiv.org/abs/1904.12575)
 
 1. **Dynamic Explainable Recommendation based on Neural Attentive Models.**
-*Chen, Xu, et al.* AAAI, 2019 [paper](http://yongfeng.me/attach/dynamic-explainable-recommendation.pdf)
+*Chen Xu, et al.* AAAI, 2019 [paper](http://yongfeng.me/attach/dynamic-explainable-recommendation.pdf)
 
 1. **Knowledge Graph Convolutional Networks for Recommender Systems with Label Smoothness Regularization.**
-*Wang, Hongwei, et al.* KDD, 2019 [paper](https://arxiv.org/abs/1905.04413)
+*Wang Hongwei, et al.* KDD, 2019 [paper](https://arxiv.org/abs/1905.04413)
 
 1. **KGAT: Knowledge Graph Attention Network for Recommendation.**
-*Wang, Xiang, et al.* KDD, 2019 [paper](https://arxiv.org/abs/1905.07854) [code](https://github.com/xiangwang1223/knowledge_graph_attention_network)
+*Wang Xiang, et al.* KDD, 2019 [paper](https://arxiv.org/abs/1905.07854) [code](https://github.com/xiangwang1223/knowledge_graph_attention_network)
 
 1. **Reinforcement Knowledge Graph Reasoning for Explainable Recommendation.**
-*Xian, Yikun and Fu, Zuohui, et al.* SIGIR, 2019 [paper](https://arxiv.org/pdf/1906.05237.pdf)
+*Xian Yikun and Fu, Zuohui, et al.* SIGIR, 2019 [paper](https://arxiv.org/pdf/1906.05237.pdf)
 
 1. **Conceptualize and Infer User Needs in E-commerce.**
-*Luo, Xusheng, et al.* CIKM, 2019 [paper](https://arxiv.org/abs/1910.03295)
+*Luo Xusheng, et al.* CIKM, 2019 [paper](https://arxiv.org/abs/1910.03295)
 
 1. **Attentive Knowledge Graph Embedding for Personalized Recommendation.**
-*Xiao, Sha* arXive, 2019 [paper](https://arxiv.org/abs/1910.08288)
+*Xiao Sha* arXive, 2019 [paper](https://arxiv.org/abs/1910.08288)
 
 ### Tutorials:
 1. **Challenges and Innovations in Building a Product Knowledge Graph.** [slides](http://lunadong.com/talks/PG.pdf)
