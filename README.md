@@ -33,7 +33,7 @@ Knowledge-aware recommendation papers.
 *Cao Yixin, et al.* WWW, 2019. [paper](https://www.comp.nus.edu.sg/~xiangnan/papers/www19-KGRec.pdf)
 
 1. **Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation.**
-*Wang Hongwei, et al.* WWW, 2019 [paper](https://arxiv.org/abs/1901.08907)
+*Wang Hongwei, et al.* WWW, 2019 [paper](https://arxiv.org/abs/1901.08907) [code](https://github.com/hwwang55/MKR)
 
 1. **Adversarial Distillation for Efficient Recommendation with External Knowledge.**
 *Chen Xu, et al.* TOIS, 2018 [paper](https://dl.acm.org/citation.cfm?id=3281659)
