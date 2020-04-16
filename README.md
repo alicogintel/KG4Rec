@@ -57,7 +57,10 @@ Knowledge-aware recommendation papers.
 *Luo Xusheng, et al.* CIKM, 2019 [paper](https://arxiv.org/abs/1910.03295)
 
 1. **Attentive Knowledge Graph Embedding for Personalized Recommendation.**
-*Xiao Sha* arXive, 2019 [paper](https://arxiv.org/abs/1910.08288)
+*Xiao Sha* arXiv, 2019 [paper](https://arxiv.org/abs/1910.08288)
+
+1. **Towards Knowledge-Based Recommender Dialog System.**
+*Qibin Chen, Jie Tang et al.* EMNLP, 2019 [paper](https://arxiv.org/pdf/1908.05391.pdf) [code](https://github.com/THUDM/KBRD) 
 
 ### Tutorials:
 1. **Challenges and Innovations in Building a Product Knowledge Graph.** [slides](http://lunadong.com/talks/PG.pdf)
