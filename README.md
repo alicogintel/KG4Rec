@@ -62,6 +62,8 @@ Knowledge-aware recommendation papers.
 1. **Towards Knowledge-Based Recommender Dialog System.**
 *Qibin Chen, Jie Tang et al.* EMNLP, 2019 [paper](https://arxiv.org/pdf/1908.05391.pdf) [code](https://github.com/THUDM/KBRD) 
 
+1. **KERL: A Knowledge-Guided Reinforcement Learning Model for Sequential Recommendation.** *Pengfei Wang, Yu Fan, Long Xia, Wayne Xin Zhao et,al.* SIGIR, 2020
+
 ### Tutorials:
 1. **Challenges and Innovations in Building a Product Knowledge Graph.** [slides](http://lunadong.com/talks/PG.pdf)
 
