@@ -64,7 +64,7 @@ Knowledge-aware recommendation papers.
 
 1. **KERL: A Knowledge-Guided Reinforcement Learning Model for Sequential Recommendation.** *Pengfei Wang, Yu Fan, Long Xia, Wayne Xin Zhao, et al.* SIGIR, 2020
 
-1. **ATBRG: Adaptive Target-Behavior Relational Graph Network for Effective Recommendation** *Yufei Feng, Binbin Hu, Fuyu Lv, et,al.* SIGIR, 2020
+1. **ATBRG: Adaptive Target-Behavior Relational Graph Network for Effective Recommendation** *Yufei Feng, Binbin Hu, Fuyu Lv, et al.* SIGIR, 2020
 
 ### Tutorials:
 1. **Challenges and Innovations in Building a Product Knowledge Graph.** [slides](http://lunadong.com/talks/PG.pdf)
