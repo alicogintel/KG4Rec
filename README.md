@@ -60,9 +60,11 @@ Knowledge-aware recommendation papers.
 *Xiao Sha* arXiv, 2019 [paper](https://arxiv.org/abs/1910.08288)
 
 1. **Towards Knowledge-Based Recommender Dialog System.**
-*Qibin Chen, Jie Tang et al.* EMNLP, 2019 [paper](https://arxiv.org/pdf/1908.05391.pdf) [code](https://github.com/THUDM/KBRD) 
+*Qibin Chen, Jie Tang, et al.* EMNLP, 2019 [paper](https://arxiv.org/pdf/1908.05391.pdf) [code](https://github.com/THUDM/KBRD) 
 
-1. **KERL: A Knowledge-Guided Reinforcement Learning Model for Sequential Recommendation.** *Pengfei Wang, Yu Fan, Long Xia, Wayne Xin Zhao et,al.* SIGIR, 2020
+1. **KERL: A Knowledge-Guided Reinforcement Learning Model for Sequential Recommendation.** *Pengfei Wang, Yu Fan, Long Xia, Wayne Xin Zhao, et al.* SIGIR, 2020
+
+1. **ATBRG: Adaptive Target-Behavior Relational Graph Network for Effective Recommendation** *Yufei Feng, Binbin Hu, Fuyu Lv, et,al.* SIGIR, 2020
 
 ### Tutorials:
 1. **Challenges and Innovations in Building a Product Knowledge Graph.** [slides](http://lunadong.com/talks/PG.pdf)
@@ -82,6 +84,6 @@ Knowledge-aware recommendation papers.
 
 1. [Yongfeng Zhang](http://yongfeng.me/)
 
-1. [Xiangnan HE](https://www.comp.nus.edu.sg/~xiangnan/)
+1. [Xiangnan He](https://www.comp.nus.edu.sg/~xiangnan/)
 
 1. [Unknown](http://shomy.top/2019/03/19/kg-ns-recsys/)
